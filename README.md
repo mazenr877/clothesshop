@@ -8,6 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+https://github.com/user-attachments/assets/4d20a90b-9a7b-4980-a27a-76308eacd858
 
   Utilized  Flutter and  Dart with GetX and Clean Architecture to  ensure efficient state management and scalability. 
   
