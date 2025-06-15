@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "764115664453",
+    "project_id": "asroshop-c0a20",
+    "storage_bucket": "asroshop-c0a20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764115664453:android:4c77447da79b8760cf6d2c",
+        "android_client_info": {
+          "package_name": "com.example.asrooshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764115664453-rrgblm5hhbg8017e44ilmo7g68dielgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6Dx7sT-xEi1PSxzYbnw4VIcI0Ng9LJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764115664453-rrgblm5hhbg8017e44ilmo7g68dielgf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764115664453-0toapqhnh1pbstn0spro5tvi5gf0qq0t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asroshop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764115664453:android:ea4643e862b2b1a2cf6d2c",
+        "android_client_info": {
+          "package_name": "com.example.asroshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764115664453-rrgblm5hhbg8017e44ilmo7g68dielgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6Dx7sT-xEi1PSxzYbnw4VIcI0Ng9LJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764115664453-rrgblm5hhbg8017e44ilmo7g68dielgf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764115664453-0toapqhnh1pbstn0spro5tvi5gf0qq0t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asroshop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764115664453:android:6bdc7054af9bdd7ccf6d2c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764115664453-rrgblm5hhbg8017e44ilmo7g68dielgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6Dx7sT-xEi1PSxzYbnw4VIcI0Ng9LJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764115664453-rrgblm5hhbg8017e44ilmo7g68dielgf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764115664453-0toapqhnh1pbstn0spro5tvi5gf0qq0t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asroshop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
